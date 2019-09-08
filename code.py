@@ -70,3 +70,7 @@ import math
 # lines = [input() for _ in range(height)]  # width characters, each either 0 or .
 # print(lines)
 # print(lines[0][0])
+
+# 8진수, 16진수, 2진수 입력받는 법
+# n = int(input(), 8), n = int(input(), 16), n = int(input(), 2)
+# print("%d" %n)
